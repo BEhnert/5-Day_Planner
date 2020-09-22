@@ -1,0 +1,103 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+textarea{
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+
+.description{
+  white-space: pre-wrap;
+}
+
+.time-block{
+  text-align: right;
+  border-radius: 15px;
+  padding-top: 20px;
+  padding-right: 10px;
+  border-top: solid black 1px;
+  border-bottom: solid black 1px;
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px solid white;;
+}
+
+.hour {
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px dashed #000000;
+}
+
+.past {
+  background-color: #d3d3d3;
+  color: black;
+}
+
+.present {
+  background-color: #ff6961;
+  color: black;
+}
+
+.future {
+  background-color: #77dd77;
+  color: black;
+}
+
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #06AED5;
+  color: white;
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all .3s ease-in-out;
+}
+
+.container{
+  display:grid;
+  grid-template-columns: 150px 8fr 1fr;
+  max-width: 1200px;
+  margin: auto;
+  margin-top: 2px;
+}
+.date{
+  border-top: 2px solid #ccc;
+  border-bottom: 2px solid #ccc;
+  padding: 40px;
+}
+.activity{
+  background-color: #ccc;
+  padding: 40px;
+}
+.save{
+  background-color: aqua;
+  padding: 40px;
+  border-radius: 0px 20px 20px 0px;
+}
+.fa-save {
+  font-size: 24px;
+  background-color: aqua;
+  padding: 40px;
+  border-radius: 0px 20px 20px 0px;
+}

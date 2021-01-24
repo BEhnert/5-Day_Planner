@@ -20,7 +20,7 @@
   In addition, each hour block is color-coded to denote whether it is a PAST, CURRENT, or FUTURE hour.
 
   Application is deployed here - 
-    https://behnert.github.io/UMN_FSWD_HW5/index.html
+    https://behnert.github.io/5-Day_Planner/
     
   ### Questions
        GitHub - <add link here BEhnert

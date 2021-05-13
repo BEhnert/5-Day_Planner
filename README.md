@@ -12,7 +12,8 @@
   
 
   ### Installation
-    Open the index.html in browswer
+  Click on this link:
+  [Day Planner](https://behnert.github.io/Day_Planner)
 
   ### Usage
   On given day (shown as current day at top of page), open application page to input activites by the hour and save them with button to the right of activity entry.  Refresh or reload page to confirm activity still exists.  Activities can be modified and saved again, each time storing only the last saved text in each timeblock.

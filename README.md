@@ -1,4 +1,5 @@
  # Title
+ ![](images/Day_Planner.png)
     DayPlanner
 
   # Description
